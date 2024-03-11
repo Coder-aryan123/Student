@@ -1,0 +1,42 @@
+#s{
+    border: 5px solid red;
+    height: 500px;
+    background-color: aqua;
+    font-size: 40px;
+    color: black;
+    padding-left: 20px;
+
+}
+#a{border: 5px solid ;
+    height: 300px;
+    margin: 10%;
+    background-color: antiquewhite;
+    
+    .b{
+        border: 5px solid red ;
+        height: 200px;
+        margin: 0 40px 100px 0;
+        
+        background-color: royalblue;
+    
+
+
+    }.c{
+        border: 5px solid red ;
+        height: 100px;
+        margin:  40px 100px 0 ;
+        margin-top: 3px;
+        
+        background-color: red;
+        text-align: center;
+        padding-top: 10px 
+        ;
+
+    }
+    
+
+
+
+
+
+}
